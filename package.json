@@ -1,0 +1,10 @@
+{
+  "name": "transformerFactory",
+  "version": "1.0.0",
+  "description": "Transformation Made Easy",
+  "main": "index.js",
+  "repository": "https://github.com/hellsinglord22/transformerFactory",
+  "author": "Hesham Adel <heshamscorpe55@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
